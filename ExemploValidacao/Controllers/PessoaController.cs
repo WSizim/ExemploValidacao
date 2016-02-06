@@ -32,6 +32,11 @@ namespace ExemploValidacao.Controllers
         {
             return View();
         }
-                                           // public ActionResult LogInUnico { get; set; }
+
+        public ActionResult Contato()
+        {
+            return View();
+        }
+        // public ActionResult LogInUnico { get; set; }
     }
 }
